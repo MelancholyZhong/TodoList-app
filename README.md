@@ -46,4 +46,6 @@ Added jest test for some components (TodoForm, TopBar, TodoList)
 2. Lost all commit history due to past unsuccessful commits (unfortunately).
 
 
+![todo_picture](https://user-images.githubusercontent.com/87922354/168542854-5f968604-7cba-4cb1-b2e3-c4f6e210189a.PNG)
+
 
